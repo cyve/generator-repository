@@ -1,7 +1,7 @@
 {
     "name": "generator-repository",
     "description": "Yeoman generator for Github repository",
-    "author": "Cyril Vermande <cyril@cyrilwebdesign.com>",
+    "author": "Cyril Vermande",
     "license": "MIT",
     "files": [
         "generators"
